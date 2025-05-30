@@ -55,6 +55,15 @@ tools/python/README.md → tools/python/uv-single-file-scripts.md
 - **Examples when needed** - Include only when they clarify usage
 - **No duplication** - Each concept documented once
 
+## Local Files
+
+This repository ignores any files or directories containing `.local` in their name. This allows you to:
+- Add personal notes: `my-notes.local.md`
+- Create local directories: `experiments.local/`
+- Keep project-specific docs: `client-xyz.local.md`
+
+These files will remain in your local clone but won't be tracked by git.
+
 ## Access
 
 - **Clone locally**: `git clone https://github.com/mbailey/ai_docs`
