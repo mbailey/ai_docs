@@ -28,6 +28,7 @@ Staging area for unsorted documentation - drop new docs here for later categoriz
 1. **Start with README.md** - Each directory contains a README.md listing its contents
 2. **Follow the hierarchy** - `frameworks/` for major frameworks, `tools/` for specific utilities
 3. **Minimize reads** - Read directory README.md first, then only the specific files needed
+4. **Follow symlinks:** We symlink in shared ai_docs content so ensure you follow symlinks when searching
 
 ### Quick Access Examples
 ```
