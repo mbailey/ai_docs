@@ -1,0 +1,1 @@
+- Markdown links should include full path to the file, not end with dir/

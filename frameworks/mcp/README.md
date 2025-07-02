@@ -5,7 +5,7 @@ Build tool servers that AI assistants can interact with using the Model Context 
 ## Available Documentation
 
 ### Core MCP Documentation
-- **[fastmcp/](fastmcp/)** - FastMCP library documentation for rapidly building MCP servers
+- **[fastmcp/](fastmcp/README.md)** - FastMCP library documentation for rapidly building MCP servers
 - **[interactive-mcp.md](interactive-mcp.md)** - Interactive MCP server patterns and examples
 - **[mcp-specification-transports.md](mcp-specification-transports.md)** - MCP transport specification and lifecycle
 - **[model-context-protocol-specification/](model-context-protocol-specification/)** - Full MCP specification documentation

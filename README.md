@@ -8,18 +8,18 @@ This repository contains documentation for frameworks, tools, and libraries comm
 
 ## Contents
 
-### [📚 Frameworks](frameworks/)
+### [📚 Frameworks](frameworks/README.md)
 Major frameworks and platforms for building AI applications
-- **[LiveKit](frameworks/livekit/)** - Real-time audio/video communication framework with AI agent support
-- **[MCP](frameworks/mcp/)** - Model Context Protocol for building AI tool servers
+- **[LiveKit](frameworks/livekit/README.md)** - Real-time audio/video communication framework with AI agent support
+- **[MCP](frameworks/mcp/README.md)** - Model Context Protocol for building AI tool servers
 
-### [🔧 Tools](tools/)
+### [🔧 Tools](tools/README.md)
 Specific tools and utilities organized by category
-- **[Python](tools/python/)** - Package managers (UV) and command-line utilities
-- **[Speech](tools/speech/)** - Speech-to-text (Whisper) and text-to-speech (Kokoro) tools
-- **[Data](tools/data/)** - Data query and processing utilities (JMESPath)
+- **[Python](tools/python/README.md)** - Package managers (UV) and command-line utilities
+- **[Speech](tools/speech/README.md)** - Speech-to-text (Whisper) and text-to-speech (Kokoro) tools
+- **[Data](tools/data/README.md)** - Data query and processing utilities (JMESPath)
 
-### [📥 INBOX](INBOX/)
+### [📥 INBOX](INBOX/README.md)
 Staging area for unsorted documentation - drop new docs here for later categorization
 
 ## For LLMs

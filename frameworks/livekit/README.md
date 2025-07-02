@@ -7,7 +7,8 @@ Real-time communication framework for building audio/video applications with AI 
 - **[livekit.md](livekit.md)** - Core LiveKit framework overview and usage
 - **[livekit-agents.md](livekit-agents.md)** - Building AI agents with LiveKit
 - **[livekit-audio-subscription-findings.md](livekit-audio-subscription-findings.md)** - Audio subscription patterns and performance findings
-- **[livekit-mcp.md](livekit-mcp.md)** - Integrating LiveKit with Model Context Protocol servers
+- **[livekit-integration-notes.md](livekit-integration-notes.md)** - Integration notes and best practices
+- **[livekit-mcp-servers.md](livekit-mcp-servers.md)** - MCP server implementations for LiveKit
 
 ## Quick Links
 
@@ -17,4 +18,5 @@ Real-time communication framework for building audio/video applications with AI 
 
 ### Advanced Topics
 - Audio handling: livekit-audio-subscription-findings.md
-- MCP integration: livekit-mcp.md
+- Integration guide: livekit-integration-notes.md
+- MCP servers: livekit-mcp-servers.md
