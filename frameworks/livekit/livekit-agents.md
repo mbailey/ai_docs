@@ -1,3 +1,9 @@
+---
+source: https://docs.livekit.io/agents/
+github: https://github.com/livekit/agents-python
+api_reference: https://docs.livekit.io/agents/api-reference/
+---
+
 # LiveKit Agents API: Comprehensive Guide for LLMs
 
 This document provides deep technical understanding of LiveKit Agents API for building voice and multimodal AI applications.

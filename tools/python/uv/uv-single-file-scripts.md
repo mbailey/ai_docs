@@ -1,3 +1,7 @@
+---
+source: https://docs.astral.sh/uv/guides/scripts/
+---
+
 # Running scripts with UV
 
 A Python script is a file intended for standalone execution, e.g., with `python <script>.py`. Using uv to execute scripts ensures that script dependencies are managed without manually managing environments.

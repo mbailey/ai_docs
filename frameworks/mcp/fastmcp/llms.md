@@ -1,3 +1,8 @@
+---
+source: https://gofastmcp.com/
+github: https://github.com/modelcontextprotocol/fastmcp
+---
+
 # FastMCP
 
 ## Docs

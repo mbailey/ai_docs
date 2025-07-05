@@ -1,3 +1,7 @@
+---
+source: https://spec.modelcontextprotocol.io/specification/architecture/#transports
+---
+
 # MCP Specification - Transports and Lifecycle
 
 ## Transports

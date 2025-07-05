@@ -1,3 +1,8 @@
+---
+source: original configuration guide
+related: https://github.com/ggerganov/whisper.cpp
+---
+
 # Whisper Local Configuration
 
 ## Using Local Whisper with OpenAI Client

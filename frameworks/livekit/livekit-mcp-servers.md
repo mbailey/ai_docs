@@ -1,3 +1,10 @@
+---
+source: https://mcp.pipedream.com/app/livekit
+related:
+  - https://modelcontextprotocol.io/
+  - https://docs.livekit.io/server/sdk/
+---
+
 # LiveKit MCP Integration Guide
 
 This document consolidates all research findings on LiveKit MCP (Model Context Protocol) integration, including available servers, patterns, and implementation guidance.

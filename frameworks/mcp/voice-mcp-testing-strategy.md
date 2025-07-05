@@ -1,3 +1,9 @@
+---
+source: original testing documentation
+project: https://github.com/livekit/voice-mcp
+related: https://github.com/modelcontextprotocol/fastmcp
+---
+
 # Voice-MCP Testing Strategy
 
 ## Overview

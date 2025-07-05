@@ -1,3 +1,7 @@
+---
+source: https://docs.astral.sh/uv/guides/tools/
+---
+
 # UV Tools and Python Entry Points: Fixing Kokoro-FastAPI
 
 ## Table of Contents

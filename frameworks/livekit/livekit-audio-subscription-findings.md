@@ -1,3 +1,9 @@
+---
+source: original research
+related: https://docs.livekit.io/realtime/client/receive/
+github: https://github.com/livekit/agents-python
+---
+
 # LiveKit Audio Subscription Deep Dive Findings
 
 ## Critical Difference Between Working Agent and MCP

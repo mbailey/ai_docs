@@ -1,3 +1,7 @@
+---
+source: https://docs.astral.sh/uv/guides/projects/
+---
+
 # UV Python Packages Guide
 
 This guide covers creating, building, and publishing Python packages using UV.

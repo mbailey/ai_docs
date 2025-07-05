@@ -1,3 +1,9 @@
+---
+source: original debugging documentation
+project: https://github.com/livekit/voice-mcp
+related: https://github.com/modelcontextprotocol/servers
+---
+
 # Voice MCP Debugging Guide
 
 ## BrokenResourceError Investigation

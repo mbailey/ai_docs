@@ -1,3 +1,8 @@
+---
+source: https://gofastmcp.com/changelog
+github: https://github.com/modelcontextprotocol/fastmcp
+---
+
 # null
 Source: https://gofastmcp.com/changelog
 

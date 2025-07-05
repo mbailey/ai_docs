@@ -1,3 +1,8 @@
+---
+source: original debugging documentation
+project: https://github.com/livekit/voice-mcp
+---
+
 # Voice-MCP Audio Issue Fix
 
 ## Problem Description

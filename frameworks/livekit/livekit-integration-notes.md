@@ -1,3 +1,10 @@
+---
+source: original implementation notes
+related_docs:
+  - https://docs.livekit.io/realtime/quickstarts/
+  - https://docs.livekit.io/cloud/authentication/
+---
+
 # LiveKit Integration Implementation Notes
 
 This document contains implementation notes and considerations for LiveKit integration with voice-mcp.

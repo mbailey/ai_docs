@@ -1,3 +1,8 @@
+---
+source: original project documentation
+project: https://github.com/livekit/voice-mcp
+---
+
 # Voice-MCP Project Structure
 
 ## Script Organization
